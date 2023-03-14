@@ -52,7 +52,7 @@ Deliver: Put all of my findings together in a final report where I make things a
    
 #                                                    Key Findings:
  
-I found 4 important features to focus on in the name of predicting house price, and created a few good models that beat the baseline . In the future I would like a little more time to tamper with the features I include in my models as I believe doing do could garner further gains in accuracy.
+I found 4 important features to focus on in the name of predicting house price, and created a few good models that beat the baseline . In the future I would like a little more time to tamper with the features I include in my models as I believe doing so could garner further gains in accuracy.
  
 #                                                  How To Reproduce:
 In order to reproduce my report you will need:
