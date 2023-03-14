@@ -1,6 +1,6 @@
  #                                             Zillow PROJECT:
                                            
-  In this project I will be looking at the Zillow data in order to learn more about what drives house prices. It will be useful to  first identify the most relevant features in my data by exploring the data and running statistical tests on different attributes of my dataset. I will than use the most relevant features in order to create several models that I can tweak around until I find the parameters that most closely predict house prices.
+  In this project I will be looking at the Zillow data in order to learn more about what drives home prices. It will be useful to  first identify the most relevant features in my data by exploring the data and running statistical tests on different attributes of my dataset. I will than use the most relevant features in order to create several models that I can tweak around until I find the parameters that most closely predict house prices.
                                            
 #                                                     Pipeline:
 Plan:
